@@ -1,6 +1,6 @@
 # EJB ClientJava ClientWeb
 
-<h1>Dans index.jsp on a crée un button qui va inserer une data dans base de donnée</h1>
+<h1>Dans index.jsp on a crée un button qui va inserer data dans base de donnée</h1>
 <img
   src="/images/indexJSP.JPG"
   alt="Alt text"
